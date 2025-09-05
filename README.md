@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+My name is Ryan Nguyen.
+
+I am currently learning about cybersecurity and system administration.
+
+I hope to pursue a career as a sysadmin.
